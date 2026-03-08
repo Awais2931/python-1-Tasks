@@ -1,0 +1,11 @@
+student_id,name,email,course,grade,submission_date,due_date,tuition_balance
+S001,Alice Johnson,alice@uni.edu,Mathematics,78,2024-03-10,2024-03-08,0
+S002,Bob Smith,bob@uni.edu,Physics,42,2024-03-15,2024-03-10,500
+S003,Carol White,carol@uni.edu,Chemistry,91,2024-03-07,2024-03-08,0
+S004,David Brown,,Biology,55,2024-03-09,2024-03-08,200
+S005,Eve Davis,eve@uni.edu,Mathematics,38,2024-03-20,2024-03-10,0
+S006,Frank Miller,frank@uni.edu,Physics,67,2024-03-08,2024-03-08,150
+S007,Grace Lee,grace@uni.edu,Chemistry,,2024-03-11,2024-03-09,0
+S008,Henry Wilson,henry@uni.edu,Biology,80,2024-03-12,2024-03-10,0
+S009,Ivy Moore,ivy@uni.edu,Mathematics,29,2024-03-25,2024-03-10,300
+S010,Jack Taylor,jack@uni.edu,Physics,73,2024-03-08,2024-03-08,0
