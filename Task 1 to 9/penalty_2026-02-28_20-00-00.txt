@@ -1,0 +1,7 @@
+.emulator_console_auth_token Fine Rs.1760
+ntuser.dat.LOG1 Fine Rs.1770
+ntuser.dat.LOG2 Fine Rs.1770
+NTUSER.DAT{619f7441-71f0-11f0-be80-6c02e0b4f469}.TM.blf Fine Rs.1770
+NTUSER.DAT{619f7441-71f0-11f0-be80-6c02e0b4f469}.TMContainer00000000000000000001.regtrans-ms Fine Rs.1770
+NTUSER.DAT{619f7441-71f0-11f0-be80-6c02e0b4f469}.TMContainer00000000000000000002.regtrans-ms Fine Rs.1770
+ntuser.ini Fine Rs.1770

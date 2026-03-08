@@ -1,0 +1,20 @@
+2026-03-01 18:39:59,956 - api_logger - INFO - Access granted for role 'admin'
+2026-03-01 18:39:59,960 - api_logger - DEBUG - Calling get_user_data
+2026-03-01 18:39:59,964 - api_logger - DEBUG - Inputs: args=('admin', 101), kwargs={}
+2026-03-01 18:40:00,968 - api_logger - INFO - get_user_data executed in 1.0006 seconds
+2026-03-01 18:40:00,972 - api_logger - DEBUG - Output: {'user_id': 101, 'name': 'Ali raza'}
+2026-03-01 18:41:44,084 - api_logger - WARNING - Access denied for role 'user' on get_user_data
+2026-03-01 18:42:03,306 - api_logger - INFO - Access granted for role 'admin'
+2026-03-01 18:42:03,313 - api_logger - DEBUG - Calling update_user
+2026-03-01 18:42:03,317 - api_logger - DEBUG - Inputs: args=('admin', 101, 'Zohaib'), kwargs={}
+2026-03-01 18:42:03,831 - api_logger - INFO - update_user executed in 0.5006 seconds
+2026-03-01 18:42:03,834 - api_logger - DEBUG - Output: {'user_id': 101, 'updated_name': 'Zohaib'}
+2026-03-01 19:01:52,950 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2026-03-01 19:01:52,957 - Comm - WARNING - No such comm: efc30173-b98a-4b9c-a9f9-9f1ef7e22ea3
+2026-03-01 19:01:52,958 - Comm - DEBUG - Current comms: []
+2026-03-01 19:04:29,715 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2026-03-01 19:04:29,722 - Comm - WARNING - No such comm: bb72c6f7-ac0e-4b34-84ad-7e75c2e1e0b6
+2026-03-01 19:04:29,725 - Comm - DEBUG - Current comms: []
+2026-03-01 19:09:00,223 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2026-03-01 19:09:00,232 - Comm - WARNING - No such comm: 7c8ca1e4-1774-487d-ad14-4ff1ba41890f
+2026-03-01 19:09:00,235 - Comm - DEBUG - Current comms: []
